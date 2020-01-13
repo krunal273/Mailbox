@@ -22,7 +22,7 @@ app.use(bodyParse.urlencoded({ extended: false }));
 // Serving static files
 app.use(express.static(path.join(__dirname, "public")));
 
-// if you running this application first time run below mentioned code to 
+// if you running this application first time run below mentioned code to
 // import data into database
 
 // const emaillist = JSON.parse(
@@ -51,13 +51,19 @@ app.get("/api", async (req, res, next) => {
   });
 });
 
-
 // post request need to,from,subject,message,type
 app.post(
   "/api",
   catchAsync(async (req, res, next) => {
-    const email = await Email.create(req.body);
-
+    const email = await Email.create({
+      to: req.body.to,
+      from: req.body.from,
+      subject: req.body.subject,
+      message: req.body.message,
+      type: req.body.type
+    });
+    
+    // console.log(email);
     res.status(201).json({
       status: "success",
       data: {
