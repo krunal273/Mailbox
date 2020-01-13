@@ -51,6 +51,8 @@ app.get("/api", async (req, res, next) => {
   });
 });
 
+
+// post request need to,from,subject,message,type
 app.post(
   "/api",
   catchAsync(async (req, res, next) => {
