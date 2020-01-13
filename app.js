@@ -51,7 +51,7 @@ app.get("/api", async (req, res, next) => {
   });
 });
 
-// post request need to,from,subject,message,type
+// post request need to,from,subject,message, and type
 app.post(
   "/api",
   catchAsync(async (req, res, next) => {
@@ -62,7 +62,7 @@ app.post(
       message: req.body.message,
       type: req.body.type
     });
-    
+
     // console.log(email);
     res.status(201).json({
       status: "success",
