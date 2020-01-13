@@ -1,0 +1,149 @@
+[
+  {
+    "to": "quam.quis@ornare.com",
+    "from": "Duis.gravida@DuisgravidaPraesent.net",
+    "subject": "Ut LLC",
+    "message": "Payroll",
+    "type": "sent"
+  },
+  {
+    "to": "neque@orcilobortisaugue.net",
+    "from": "tortor.Integer.aliquam@dapibusquamquis.edu",
+    "subject": "Integer Urna Vivamus LLC",
+    "message": "Accounting",
+    "type": "sent"
+  },
+  {
+    "to": "aliquam.enim.nec@dolor.edu",
+    "from": "Integer.id@purusaccumsan.net",
+    "subject": "Imperdiet Ltd",
+    "message": "Payroll",
+    "type": "sent"
+  },
+  {
+    "to": "accumsan@diamluctuslobortis.com",
+    "from": "mauris.ipsum@anteMaecenasmi.org",
+    "subject": "Imperdiet LLP",
+    "message": "Human Resources",
+    "type": "sent"
+  },
+  {
+    "to": "Praesent.eu@odioAliquam.edu",
+    "from": "est.mollis@faucibus.org",
+    "subject": "Vitae Risus PC",
+    "message": "Payroll",
+    "type": "sent"
+  },
+  {
+    "to": "nec@leo.edu",
+    "from": "Suspendisse@ligulaconsectetuer.com",
+    "subject": "Mauris Molestie Institute",
+    "message": "Human Resources",
+    "type": "receive"
+  },
+  {
+    "to": "eu.euismod.ac@Mauris.org",
+    "from": "nibh.sit.amet@NuncmaurisMorbi.ca",
+    "subject": "Ultricies Corporation",
+    "message": "Research and Development",
+    "type": "receive"
+  },
+  {
+    "to": "augue@augueSedmolestie.net",
+    "from": "semper.et@magnis.ca",
+    "subject": "Quam Incorporated",
+    "message": "Advertising",
+    "type": "receive"
+  },
+  {
+    "to": "non@rutrum.ca",
+    "from": "vulputate@necdiam.co.uk",
+    "subject": "Posuere Enim Nisl Ltd",
+    "message": "Payroll",
+    "type": "receive"
+  },
+  {
+    "to": "sit.amet@a.edu",
+    "from": "consectetuer.adipiscing.elit@nislMaecenasmalesuada.edu",
+    "subject": "Phasellus At Augue Inc.",
+    "message": "Media Relations",
+    "type": "receive"
+  },
+  {
+    "to": "Mauris@iaculislacuspede.org",
+    "from": "molestie.arcu@temporaugue.edu",
+    "subject": "Neque Vitae Semper Industries",
+    "message": "Public Relations",
+    "type": "receive"
+  },
+  {
+    "to": "Suspendisse@cursusIntegermollis.org",
+    "from": "tempor@purusDuiselementum.ca",
+    "subject": "Molestie In Tempus Incorporated",
+    "message": "Finances",
+    "type": "delete"
+  },
+  {
+    "to": "elit.pede@per.com",
+    "from": "vel.mauris.Integer@Quisque.edu",
+    "subject": "Vitae Posuere At Inc.",
+    "message": "Customer Relations",
+    "type": "delete"
+  },
+  {
+    "to": "enim@lorem.edu",
+    "from": "auctor.nunc.nulla@In.com",
+    "subject": "Iaculis Inc.",
+    "message": "Public Relations",
+    "type": "delete"
+  },
+  {
+    "to": "sollicitudin.a.malesuada@Sedauctorodio.net",
+    "from": "euismod.mauris.eu@sitamet.net",
+    "subject": "Cras Associates",
+    "message": "Asset Management",
+    "type": "delete"
+  },
+  {
+    "to": "venenatis@Duis.co.uk",
+    "from": "diam.Sed@Proinmi.edu",
+    "subject": "Suspendisse Tristique Institute",
+    "message": "Research and Development",
+    "type": "delete"
+  },
+  {
+    "to": "dui.Cras@Nuncsollicitudin.co.uk",
+    "from": "fringilla.purus.mauris@rutrum.com",
+    "subject": "Eu Ltd",
+    "message": "Asset Management",
+    "type": "delete"
+  },
+  {
+    "to": "auctor.non.feugiat@inhendrerit.ca",
+    "from": "eu@liberomaurisaliquam.co.uk",
+    "subject": "Ultrices Vivamus Rhoncus Ltd",
+    "message": "Public Relations",
+    "type": "archive"
+  },
+  {
+    "to": "velit.Sed.malesuada@cursusInteger.co.uk",
+    "from": "arcu.iaculis.enim@sit.com",
+    "subject": "Consequat Auctor Corporation",
+    "message": "Human Resources",
+    "type": "archive"
+  },
+  {
+    "to": "nibh@faucibus.com",
+    "from": "facilisis.Suspendisse.commodo@acturpis.net",
+    "subject": "Est Vitae Sodales Inc.",
+    "message": "Advertising",
+    "type": "archive"
+  },
+  {
+    "to": "Nullam.velit@aliquamarcu.co.uk",
+    "from": "posuere@semperetlacinia.net",
+    "subject": "Felis Donec Tempor Associates",
+    "message": "Quality Assurance",
+    "type": "archive"
+  }
+]

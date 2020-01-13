@@ -1,0 +1,16 @@
+<% for(let i=0; i < emails.length; i++ ) { %>
+<tr>
+    <td class="view-message  dont-show">
+        <a href="/<%= emails[i]._id %>"> <%= emails[i].to %></a>
+    </td>
+    <td class="view-message ">
+        <%= emails[i].subject %>
+    </td>
+    <% if(emails[i].type == 'sent' || emails[i].type == 'receive'){ %>
+    <td class="view-message  dont-show">
+        <button type="button" id="deleteEmail" data-id="<%= emails[i]._id %>" class="btn btn-danger">Delete</button>
+        <button type="button" id="archiveEmail" data-id="<%= emails[i]._id %>" class="btn btn-warning">Archive</button>
+    </td>
+    <% } %>
+</tr>
+<% } %>
